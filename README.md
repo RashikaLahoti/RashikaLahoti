@@ -2,107 +2,56 @@
 
 ### Software Developer · Full Stack Developer · Backend-Focused
 
-I'm a final-year Computer Science engineering student at **LNCT Bhopal**, passionate about building software that solves real problems.
+I'm a final-year Computer Science engineering student at **LNCT Bhopal**, interested in building practical software and understanding how systems work under the hood.
 
-My development journey spans **Java & DSA, full-stack development, backend engineering, databases, APIs, and AI-powered applications**. I enjoy going beyond making an application work — I'm interested in understanding **how software is structured, how components interact, and how systems can be made reliable and maintainable**.
-
-Currently, I'm strengthening my foundations in **Data Structures & Algorithms, Java, backend architecture, system design, and scalable software development**.
+My focus spans **Java & DSA, backend development, full-stack applications, databases, APIs, and AI integrations**. Currently, I'm strengthening my skills in **DSA, Java, backend architecture, and system design**.
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
-* 🎓 B.Tech Computer Science Engineering student
-* 💻 Software Developer focused on full-stack & backend development
-* ☕ Strongly exploring **Java + DSA**
-* 🌐 Experienced with **MERN stack development**
-* 🧠 Interested in **Data Structures, Algorithms & System Design**
+* 🎓 B.Tech CSE student
+* 💻 Software Developer focused on backend & full-stack development
+* ☕ Learning **Java + DSA**
+* 🧠 Interested in **Algorithms, System Design & Software Engineering**
 * 🤖 Building applications with **AI integrations**
-* 🔧 Interested in backend architecture, APIs and database design
-* 🚀 Love turning ideas into working software
-* 🎯 Goal: Become a well-rounded **Software Engineer**
+* 🚀 Goal: Become a strong Software Engineer
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,python" />
 </p>
 
-**Java** · **JavaScript** · **Python**
+`Java` · `JavaScript` · `Python`
 
-### 🌐 Frontend
+### 🎨 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
 
-**React.js** · **Next.js** · **Tailwind CSS** · **HTML** · **CSS**
+`React.js` · `Next.js` · `Tailwind CSS` · `HTML5` · `CSS3`
 
-### ⚙️ Backend & APIs
+### ⚙️ Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-**Node.js** · **Express.js** · **REST APIs** · **JWT Authentication** · **Zod Validation**
+`Node.js` · `Express.js` · `REST APIs` · `JWT` · `Zod`
 
-### 🗄️ Databases & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-**MongoDB** · **Database Design** · **CRUD Operations**
-
-### 🤖 AI & Development Tools
+### 🗄️ Database & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,postman,vscode" />
 </p>
 
-**Gemini API** · **OpenRouter** · **Cloudinary** · **Git** · **GitHub** · **Postman** · **VS Code**
-
----
-
-# 🧠 Core Computer Science
-
-My focus isn't limited to frameworks.
-
-### Data Structures & Algorithms
-
-* Arrays & Strings
-* Linked Lists
-* Stacks & Queues
-* Trees & Binary Trees
-* Recursion
-* Searching & Sorting
-* Problem Solving
-* Time & Space Complexity
-
-### Software Engineering
-
-* Object-Oriented Programming
-* REST API Design
-* Authentication & Authorization
-* Layered Architecture
-* Modular Code Structure
-* Input Validation
-* Database Design
-* Debugging & Problem Solving
-* Git & Version Control
-
-### Currently Exploring
-
-* System Design Fundamentals
-* Scalable Backend Architecture
-* Advanced Java
-* Advanced DSA
-* Database Optimization
-* Software Design Patterns
+`MongoDB` · `Git` · `GitHub` · `Postman` · `Cloudinary` · `OpenRouter`
 
 ---
 
@@ -110,88 +59,47 @@ My focus isn't limited to frameworks.
 
 ## 💇‍♀️ GlowTwin AI
 
-### AI-Powered Beauty Marketplace
+**AI-Powered Beauty Marketplace**
 
-**My most ambitious full-stack project.**
+A city-based beauty marketplace combining **AI-powered hair analysis** with personalized beauty and hair-care services.
 
-GlowTwin AI is a city-based beauty marketplace that combines a modern web application with **AI-powered hair analysis** to help users discover personalized beauty and hair-care services.
-
-### What I worked with
-
-* 🤖 AI-powered hair analysis
-* 💇 Personalized recommendations
+* 🤖 AI-powered hair analysis & recommendations
 * 📍 City-based service discovery
 * 🔐 Authentication & protected routes
-* 🔗 REST API architecture
-* 🧩 Modular backend structure
-* 🛡️ Zod-based validation
+* 🛡️ Zod validation
 * ☁️ Cloudinary image handling
 * 🗄️ MongoDB data management
-* ⚡ AI integration using OpenRouter
+* ⚡ OpenRouter AI integration
 
-**Tech:** `React.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Zod` `Cloudinary` `OpenRouter`
+**Tech:** `React.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Zod` `OpenRouter`
 
 🔗 [View Repository](https://github.com/RashikaLahoti/GlowTwin)
 
 ---
 
-## 🚕 UberClone
-
-### Backend-Focused Ride Booking System
-
-A backend-heavy application built to understand how a structured server-side application should be organized instead of putting business logic directly inside route handlers.
-
-### Key Concepts
-
-* 🔐 Authentication & authorization
-* 🧩 Routes → Controllers → Services → Models
-* 🛡️ Request validation with Zod
-* 🔗 RESTful API design
-* 🗄️ MongoDB integration
-* ⚙️ Middleware architecture
-* ✏️ CRUD operations
-* 📁 Modular project structure
-
-**Tech:** `Node.js` `Express.js` `MongoDB` `Zod` `JWT`
-
-🔗 [View Repository](https://github.com/RashikaLahoti/UberClone)
-
----
-
 ## 📊 Sorting Algorithm Visualizer
 
-### Making Algorithms Visual
+**Making Algorithms Visual**
 
-An interactive web application that demonstrates sorting algorithms through animations, helping visualize how algorithms manipulate data step by step.
+An interactive application that visualizes sorting algorithms through step-by-step animations.
 
-### Key Concepts
-
-* 🔢 Sorting algorithms
-* 🧠 Algorithm visualization
+* 🔢 Sorting algorithm visualization
 * 🎬 Step-by-step animations
 * ⚡ Adjustable animation speed
 * 🎯 Dynamic array generation
-* 📈 Algorithm comparison
-* 🧩 DOM manipulation
-* 🎨 Interactive UI
+* 🧠 Algorithm-focused learning
 
 **Tech:** `JavaScript` `HTML` `CSS` `DOM Manipulation` `Algorithms`
+
+🔗 [View Repository](https://github.com/RashikaLahoti/Sorting-Algorithm-Visualizer)
 
 ---
 
 ## 🤖 PrepPilot AI
 
-### AI-Powered Preparation Platform
+**AI-Powered Preparation Platform**
 
-A productivity and learning platform designed around study organization and interview preparation, built while exploring how AI functionality can be integrated into practical web applications.
-
-### Key Concepts
-
-* 📚 Study & preparation workflows
-* 🤖 AI-powered functionality
-* 🔗 REST API integration
-* 🧩 Frontend-backend communication
-* 🗄️ Database-backed application
+A learning and productivity platform designed around study organization and interview preparation.
 
 **Tech:** `React.js` `Node.js` `MongoDB` `REST APIs`
 
@@ -201,75 +109,70 @@ A productivity and learning platform designed around study organization and inte
 
 ## ⚡ QuickEdit
 
-### Browser-Based Editor
+**Browser-Based Editor**
 
-A lightweight browser-based editor built to strengthen core programming and frontend fundamentals.
+A lightweight editor built to strengthen JavaScript, DOM manipulation and frontend fundamentals.
 
-**Tech:** `HTML` `CSS` `JavaScript` `DOM Manipulation`
+**Tech:** `HTML` `CSS` `JavaScript`
 
 🔗 [View Repository](https://github.com/RashikaLahoti/QuickEdit)
 
 ---
 
+# 🧠 Computer Science & Problem Solving
+
+**DSA:** Arrays · Strings · Linked Lists · Stacks · Queues · Trees · Recursion · Searching · Sorting
+
+**Fundamentals:** OOP · REST APIs · Authentication · Database Design · Layered Architecture · Git
+
+**Currently learning:** Java · Advanced DSA · System Design · Backend Architecture · Database Optimization
+
+---
+
 # 🏆 Achievements
 
-* 🥇 **1st Position** in a DSA assessment
-* 🥈 **2nd Position** in a Java + DSA challenge
-* 💻 Solved **100+ problems on LeetCode**
-* 🚀 Built multiple full-stack and backend applications
-* 🧩 Hands-on experience with REST API development and backend architecture
+* 🥇 **1st Position** — DSA Assessment
+* 🥈 **2nd Position** — Java + DSA Challenge
+* 💻 **100+ LeetCode Problems**
+* 🚀 Built multiple full-stack, backend & AI-powered applications
+
+🔗 [LeetCode]([https://leetcode.com/](https://www.linkedin.com/in/rashika-lahoti-3236a228b))
 
 ---
 
-# 📈 Problem Solving
+# 📊 GitHub Stats
 
-I actively practice Data Structures & Algorithms alongside development.
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=RashikaLahoti&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=RashikaLahoti&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
 
-### Current Focus
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=RashikaLahoti&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
 
-```text
-Java
-  ↓
-Data Structures
-  ↓
-Algorithms
-  ↓
-Problem Solving
-  ↓
-Time & Space Complexity
-  ↓
-System Design
-  ↓
-Software Engineering
-```
 
-🔗 [My LeetCode Profile](https://leetcode.com/)
-
----
 
 # 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/RashikaLahoti/RashikaLahoti/output/github-contribution-grid-snake-dark.svg">
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/RashikaLahoti/RashikaLahoti/output/github-contribution-grid-snake.svg">
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/RashikaLahoti/RashikaLahoti/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/RashikaLahoti/RashikaLahoti/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
 
 ---
+🌱 What I'm Working Towards
 
-# 🌱 What I'm Working Towards
+I'm working towards becoming a strong Software Engineer, with depth across both development and computer science fundamentals.
 
-I'm working towards becoming a **strong Software Engineer**, with depth across both development and computer science fundamentals.
-
-```text
                     SOFTWARE ENGINEERING
                             │
         ┌───────────────────┼───────────────────┐
@@ -283,23 +186,12 @@ I'm working towards becoming a **strong Software Engineer**, with depth across b
         └───────────────────┼───────────────────┘
                             ↓
                     BUILD BETTER SOFTWARE
-```
-
----
-
+                    
 # 💼 Open To
 
-I'm interested in opportunities involving:
+**Software Development · Backend Development · Full Stack Development · Java Development · Product Engineering**
 
-* Software Development
-* Backend Development
-* Full Stack Development
-* Java Development
-* MERN Stack Development
-* API Development
-* Product Engineering
-* Software Engineering Internships
-* Full-Time Software Engineering Roles
+Open to **internships and full-time software engineering opportunities**.
 
 ---
 
@@ -319,8 +211,4 @@ I'm interested in opportunities involving:
 
 <p align="center">
   <i>Build. Break. Debug. Learn. Repeat.</i>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
 </p>
