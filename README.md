@@ -1,81 +1,220 @@
-# Hi, I'm Rashika 👋
+# 👋 Hey, I'm Rashika Lahoti
 
-**Full Stack Developer (MERN) · Backend-focused · Building real-world apps**
+### `Full Stack Developer` · `Backend-Focused` · `MERN Stack`
 
----
+I'm a 3rd-year Computer Science engineering student at **LNCT Bhopal**, focused on building practical, real-world web applications with the **MERN stack**.
 
-I'm a 3rd-year engineering student from LNCT Bhopal building industry-grade apps with the MERN stack. I've been doing hands-on full stack training at **Sheryians Coding School** since May 2025 — completed the frontend track and now deep in backend: APIs, auth flows, layered architecture, and scalable project structuring.
+I enjoy working on the parts of an application that make it actually work — **APIs, authentication, databases, validation, backend architecture, and frontend-backend integration**.
 
-Currently interning and working on real development tasks under mentorship — shipping features, debugging production code, and learning how serious software is actually built.
-
----
-
-## What I work with
-
-`Node.js` `Express.js` `MongoDB` `React.js` `JavaScript` `Tailwind CSS` `REST APIs` `JWT / Auth` `Zod Validation` `Layered Architecture`
+Currently, I'm strengthening my backend development skills through hands-on development, while also exploring **system design, scalable architecture, and software engineering fundamentals**.
 
 ---
 
-## Projects
+## 🧠 About Me
 
-### 🚕 [UberClone](https://github.com/RashikaLahoti/UberClone) — Production-style ride booking backend ⭐ Best work
-Full backend system built with layered architecture — separate routes, controllers, services, validations, middleware, and models. Includes REST APIs, auth flows, Zod validation, and CRUD. This is the project I'm most proud of technically.
-
-`Node.js` · `Express.js` · `MongoDB` · `Zod` · `JWT`
-
----
-
-### 💬 [SyncChat](https://github.com/RashikaLahoti/SyncChat) — Real-time chat application
-End-to-end chat app with instant messaging, authentication, and a clean responsive UI. Demonstrates frontend-backend integration and real-time data handling.
-
-`React.js` · `Node.js` · `Express.js` · `MongoDB`
+```text
+🎓 3rd-year B.Tech CSE student
+💻 Full Stack Developer — MERN
+🔧 Backend-focused developer
+📚 Learning system design & scalable backend architecture
+🚀 Interested in building real-world products
+🎯 Goal: Become a strong Software Engineer
+```
 
 ---
 
-### 🤖 [PrepPilot AI](https://github.com/RashikaLahoti/PrepPilot-AI) — AI-powered prep platform
-A productivity and learning platform that helps users organize study and interview prep. Built to explore integrating AI concepts into real web apps with a structured UX.
+## 🛠️ Tech Stack
 
-`React.js` · `Node.js` · `MongoDB` · `REST APIs`
+### 💻 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge\&logo=python\&logoColor=3776AB)
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge\&logo=next.js\&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge\&logo=tailwindcss\&logoColor=38BDF8)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge\&logo=html5\&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge\&logo=css3\&logoColor=1572B6)
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge\&logo=node.js\&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge\&logo=express\&logoColor=FFFFFF)
+![REST API](https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge\&logo=fastapi\&logoColor=009688)
+![JWT](https://img.shields.io/badge/JWT_Auth-0D1117?style=for-the-badge\&logo=jsonwebtokens\&logoColor=FFFFFF)
+![Zod](https://img.shields.io/badge/Zod-0D1117?style=for-the-badge\&logo=zod\&logoColor=3E67B1)
+
+### 🗄️ Database & Tools
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge\&logo=postman\&logoColor=FF6C37)
 
 ---
 
-### ⚡ [QuickEdit](https://github.com/RashikaLahoti/QuickEdit) — Browser-based editor
-Lightweight web editor focused on fast content modification. Strengthened my DOM manipulation, event handling, and frontend logic.
+# 🚀 Featured Projects
 
-`HTML` · `CSS` · `JavaScript`
+## 🚕 UberClone — Backend-Focused Ride Booking System
+
+**My strongest backend project**
+
+A ride-booking backend designed around a structured backend architecture rather than putting everything inside route handlers.
+
+### Highlights
+
+* 🔐 Authentication & authorization
+* 🧩 Routes → Controllers → Services → Models separation
+* 🛡️ Request validation using **Zod**
+* 🔄 RESTful API design
+* 🗄️ MongoDB database integration
+* 🧱 Middleware-based request handling
+* ✏️ CRUD operations
+* 📁 Modular project structure
+
+**Stack:** `Node.js` `Express.js` `MongoDB` `Zod` `JWT`
+
+🔗 **[View Repository](https://github.com/RashikaLahoti/UberClone)**
 
 ---
 
-## Right now
+## 💬 SyncChat — Real-Time Chat Application
 
-- 🔧 **Interning** — backend API development, feature implementation, scalable project structuring
-- 📚 **Learning** — deeper backend architecture, system design fundamentals, scalable Node.js patterns
-- 🎯 **Goal** — become a well-rounded software engineer with strong backend and full stack depth
+A full-stack chat application focused on real-time communication and frontend-backend integration.
+
+### Highlights
+
+* 💬 Instant messaging
+* 🔐 User authentication
+* 🔄 Real-time data handling
+* 📱 Responsive interface
+* 🔗 Frontend ↔ Backend integration
+* 🗄️ Persistent data storage
+
+**Stack:** `React.js` `Node.js` `Express.js` `MongoDB`
+
+🔗 **[View Repository](https://github.com/RashikaLahoti/SyncChat)**
 
 ---
 
-## Let's connect
+## 🤖 PrepPilot AI — AI-Powered Preparation Platform
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/
-rashika-lahoti-3236a228b
-)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lahotirashika19@gmail.com)
+A productivity and learning platform designed around study organization and interview preparation.
+
+### Highlights
+
+* 📚 Study & preparation workflows
+* 🤖 AI-focused functionality
+* 🔗 REST API integration
+* 🧩 Structured frontend architecture
+* 🗄️ Database-backed application
+
+**Stack:** `React.js` `Node.js` `MongoDB` `REST APIs`
+
+🔗 **[View Repository](https://github.com/RashikaLahoti/PrepPilot-AI)**
 
 ---
 
-*Open to internships, freelance projects, and full-time opportunities from 2026*
+## ⚡ QuickEdit — Browser-Based Editor
 
-<!--
-**RashikaLahoti/RashikaLahoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A lightweight browser-based editor built to strengthen core frontend and JavaScript fundamentals.
 
-Here are some ideas to get you started:
+### Highlights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ⚡ Dynamic content editing
+* 🎯 DOM manipulation
+* 🖱️ Event handling
+* 🧠 Vanilla JavaScript logic
+* 🎨 Responsive UI
+
+**Stack:** `HTML` `CSS` `JavaScript`
+
+🔗 **[View Repository](https://github.com/RashikaLahoti/QuickEdit)**
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RashikaLahoti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashikaLahoti&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RashikaLahoti&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+```text
+Backend Architecture
+       ↓
+System Design Fundamentals
+       ↓
+Scalable Node.js Applications
+       ↓
+Database Design & Optimization
+       ↓
+DSA & Problem Solving
+       ↓
+Software Engineering Practices
+```
+
+I'm particularly interested in understanding **why** systems are designed a certain way — not just making the code work.
+
+---
+
+# 🏆 Achievements
+
+* 🥇 Secured **1st position** in a DSA assessment
+* 🥈 Secured **2nd position** in a Java + DSA challenge
+* 💻 Solved **100+ problems on LeetCode**
+* 🚀 Built multiple full-stack applications
+* 🧩 Hands-on experience with backend API development
+
+---
+
+# 💼 What I'm Looking For
+
+I'm interested in opportunities where I can work on:
+
+* Backend development
+* Full-stack web applications
+* REST API development
+* Node.js / Express.js
+* React.js
+* Database-driven applications
+* Real-world software engineering problems
+
+**Open to internships, freelance opportunities, and full-time software development roles.**
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rashika-lahoti-3236a228b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:lahotirashika19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/RashikaLahoti">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building. Breaking. Debugging. Learning. Repeating.</i>
+</p>
+
+<p align="center">
+  ⭐ If you find something interesting in my repositories, feel free to explore!
+</p>
