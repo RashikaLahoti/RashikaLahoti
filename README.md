@@ -1,235 +1,326 @@
-# 👋 Hey, I'm Rashika Lahoti
+# 👋 Hi, I'm Rashika Lahoti
 
-### `Full Stack Developer` · `Backend-Focused` · `MERN Stack`
+### Software Developer · Full Stack Developer · Backend-Focused
 
-I'm a final-year Computer Science engineering student at **LNCT Bhopal**, focused on building practical, real-world web applications with the **MERN stack**.
+I'm a final-year Computer Science engineering student at **LNCT Bhopal**, passionate about building software that solves real problems.
 
-I enjoy working on the parts of an application that make it actually work — **APIs, authentication, databases, validation, backend architecture, and frontend-backend integration**.
+My development journey spans **Java & DSA, full-stack development, backend engineering, databases, APIs, and AI-powered applications**. I enjoy going beyond making an application work — I'm interested in understanding **how software is structured, how components interact, and how systems can be made reliable and maintainable**.
 
-Currently, I'm strengthening my backend development skills through hands-on development, while also exploring **system design, scalable architecture, and software engineering fundamentals**.
-
----
-
-## 🧠 About Me
-
-```text
-🎓 final-year B.Tech CSE student
-💻 Full Stack Developer — MERN
-🔧 Backend-focused developer
-📚 Learning system design & scalable backend architecture
-🚀 Interested in building real-world products
-🎯 Goal: Become a strong Software Engineer
-```
+Currently, I'm strengthening my foundations in **Data Structures & Algorithms, Java, backend architecture, system design, and scalable software development**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me
 
-### 💻 Languages
+* 🎓 B.Tech Computer Science Engineering student
+* 💻 Software Developer focused on full-stack & backend development
+* ☕ Strongly exploring **Java + DSA**
+* 🌐 Experienced with **MERN stack development**
+* 🧠 Interested in **Data Structures, Algorithms & System Design**
+* 🤖 Building applications with **AI integrations**
+* 🔧 Interested in backend architecture, APIs and database design
+* 🚀 Love turning ideas into working software
+* 🎯 Goal: Become a well-rounded **Software Engineer**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge\&logo=python\&logoColor=3776AB)
+---
 
-### 🎨 Frontend
+# 🛠️ Tech Stack
 
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge\&logo=next.js\&logoColor=FFFFFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge\&logo=tailwindcss\&logoColor=38BDF8)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge\&logo=html5\&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge\&logo=css3\&logoColor=1572B6)
+### 👨‍💻 Languages
 
-### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge\&logo=node.js\&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge\&logo=express\&logoColor=FFFFFF)
-![REST API](https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge\&logo=fastapi\&logoColor=009688)
-![JWT](https://img.shields.io/badge/JWT_Auth-0D1117?style=for-the-badge\&logo=jsonwebtokens\&logoColor=FFFFFF)
-![Zod](https://img.shields.io/badge/Zod-0D1117?style=for-the-badge\&logo=zod\&logoColor=3E67B1)
+**Java** · **JavaScript** · **Python**
 
-### 🗄️ Database & Tools
+### 🌐 Frontend
 
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
-![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge\&logo=postman\&logoColor=FF6C37)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+**React.js** · **Next.js** · **Tailwind CSS** · **HTML** · **CSS**
+
+### ⚙️ Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+**Node.js** · **Express.js** · **REST APIs** · **JWT Authentication** · **Zod Validation**
+
+### 🗄️ Databases & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+**MongoDB** · **Database Design** · **CRUD Operations**
+
+### 🤖 AI & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+**Gemini API** · **OpenRouter** · **Cloudinary** · **Git** · **GitHub** · **Postman** · **VS Code**
+
+---
+
+# 🧠 Core Computer Science
+
+My focus isn't limited to frameworks.
+
+### Data Structures & Algorithms
+
+* Arrays & Strings
+* Linked Lists
+* Stacks & Queues
+* Trees & Binary Trees
+* Recursion
+* Searching & Sorting
+* Problem Solving
+* Time & Space Complexity
+
+### Software Engineering
+
+* Object-Oriented Programming
+* REST API Design
+* Authentication & Authorization
+* Layered Architecture
+* Modular Code Structure
+* Input Validation
+* Database Design
+* Debugging & Problem Solving
+* Git & Version Control
+
+### Currently Exploring
+
+* System Design Fundamentals
+* Scalable Backend Architecture
+* Advanced Java
+* Advanced DSA
+* Database Optimization
+* Software Design Patterns
 
 ---
 
 # 🚀 Featured Projects
 
-## 💇‍♀️ GlowTwin AI — AI-Powered Beauty Marketplace
+## 💇‍♀️ GlowTwin AI
 
-**My most ambitious full-stack project**
+### AI-Powered Beauty Marketplace
 
-GlowTwin AI is a city-based beauty marketplace that uses **AI-powered hair analysis** to help users discover personalized beauty and hair-care services.
+**My most ambitious full-stack project.**
 
-The project combines a modern React frontend with a structured Node.js backend and AI integration, focusing on building an actual product rather than just demonstrating CRUD operations.
+GlowTwin AI is a city-based beauty marketplace that combines a modern web application with **AI-powered hair analysis** to help users discover personalized beauty and hair-care services.
 
-### ✨ Highlights
+### What I worked with
 
 * 🤖 AI-powered hair analysis
-* 💇 Personalized beauty & hair-care recommendations
-* 📍 City-based beauty service discovery
+* 💇 Personalized recommendations
+* 📍 City-based service discovery
 * 🔐 Authentication & protected routes
 * 🔗 REST API architecture
 * 🧩 Modular backend structure
-* 🛡️ Request validation with **Zod**
-* ☁️ Image handling with **Cloudinary**
-* 🗄️ MongoDB-based data management
-* ⚡ AI integration through **OpenRouter**
-* 📱 Responsive React interface
+* 🛡️ Zod-based validation
+* ☁️ Cloudinary image handling
+* 🗄️ MongoDB data management
+* ⚡ AI integration using OpenRouter
 
-### 🧰 Tech Stack
+**Tech:** `React.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Zod` `Cloudinary` `OpenRouter`
 
-`React.js` · `TypeScript` · `Node.js` · `Express.js` · `MongoDB` · `Tailwind CSS` · `Zod` · `Cloudinary` · `OpenRouter`
+🔗 [View Repository](https://github.com/RashikaLahoti/GlowTwin)
 
-🔗 **[View Repository](https://github.com/RashikaLahoti/GlowTwin)**
+---
 
-## 🤖 PrepPilot AI — AI-Powered Preparation Platform
+## 🚕 UberClone
 
-A productivity and learning platform designed around study organization and interview preparation.
+### Backend-Focused Ride Booking System
 
-### Highlights
+A backend-heavy application built to understand how a structured server-side application should be organized instead of putting business logic directly inside route handlers.
+
+### Key Concepts
+
+* 🔐 Authentication & authorization
+* 🧩 Routes → Controllers → Services → Models
+* 🛡️ Request validation with Zod
+* 🔗 RESTful API design
+* 🗄️ MongoDB integration
+* ⚙️ Middleware architecture
+* ✏️ CRUD operations
+* 📁 Modular project structure
+
+**Tech:** `Node.js` `Express.js` `MongoDB` `Zod` `JWT`
+
+🔗 [View Repository](https://github.com/RashikaLahoti/UberClone)
+
+---
+
+## 📊 Sorting Algorithm Visualizer
+
+### Making Algorithms Visual
+
+An interactive web application that demonstrates sorting algorithms through animations, helping visualize how algorithms manipulate data step by step.
+
+### Key Concepts
+
+* 🔢 Sorting algorithms
+* 🧠 Algorithm visualization
+* 🎬 Step-by-step animations
+* ⚡ Adjustable animation speed
+* 🎯 Dynamic array generation
+* 📈 Algorithm comparison
+* 🧩 DOM manipulation
+* 🎨 Interactive UI
+
+**Tech:** `JavaScript` `HTML` `CSS` `DOM Manipulation` `Algorithms`
+
+---
+
+## 🤖 PrepPilot AI
+
+### AI-Powered Preparation Platform
+
+A productivity and learning platform designed around study organization and interview preparation, built while exploring how AI functionality can be integrated into practical web applications.
+
+### Key Concepts
 
 * 📚 Study & preparation workflows
-* 🤖 AI-focused functionality
+* 🤖 AI-powered functionality
 * 🔗 REST API integration
-* 🧩 Structured frontend architecture
+* 🧩 Frontend-backend communication
 * 🗄️ Database-backed application
 
-**Stack:** `React.js` `Node.js` `MongoDB` `REST APIs`
+**Tech:** `React.js` `Node.js` `MongoDB` `REST APIs`
 
-🔗 **[View Repository](https://github.com/RashikaLahoti/PrepPilot-AI)**
-
----
-
-## ⚡ QuickEdit — Browser-Based Editor
-
-A lightweight browser-based editor built to strengthen core frontend and JavaScript fundamentals.
-
-### Highlights
-
-* ⚡ Dynamic content editing
-* 🎯 DOM manipulation
-* 🖱️ Event handling
-* 🧠 Vanilla JavaScript logic
-* 🎨 Responsive UI
-
-**Stack:** `HTML` `CSS` `JavaScript`
-
-🔗 **[View Repository](https://github.com/RashikaLahoti/QuickEdit)**
+🔗 [View Repository](https://github.com/RashikaLahoti/PrepPilot-AI)
 
 ---
-## 📊 Sorting Algorithm Visualizer — Interactive Algorithm Learning Tool
 
-An interactive web application that visually demonstrates how different sorting algorithms work, making algorithm behavior easier to understand through step-by-step animations.
+## ⚡ QuickEdit
 
-### ✨ Highlights
+### Browser-Based Editor
 
-* 🔢 Visualizes multiple sorting algorithms
-* 🎬 Step-by-step sorting animations
-* ⚡ Adjustable animation speed
-* 🎯 Interactive array generation
-* 🧠 Helps understand algorithm behavior visually
-* 📈 Compares sorting approaches and performance
-* 🎨 Clean and responsive interface
-* 🧩 Built with vanilla JavaScript and DOM manipulation
+A lightweight browser-based editor built to strengthen core programming and frontend fundamentals.
 
-### 🧰 Tech Stack
+**Tech:** `HTML` `CSS` `JavaScript` `DOM Manipulation`
 
-`HTML` · `CSS` · `JavaScript` · `DOM Manipulation` · `Algorithms`
-
-🔗 **[View Repository](YOUR_SORTING_VISUALIZER_GITHUB_LINK)**
-
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=RashikaLahoti&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=RashikaLahoti&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=RashikaLahoti&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
-
-
-# 🌱 Currently Learning
-
-```text
-Backend Architecture
-       ↓
-System Design Fundamentals
-       ↓
-Scalable Node.js Applications
-       ↓
-Database Design & Optimization
-       ↓
-DSA & Problem Solving
-       ↓
-Software Engineering Practices
-```
-
-I'm particularly interested in understanding **why** systems are designed a certain way — not just making the code work.
+🔗 [View Repository](https://github.com/RashikaLahoti/QuickEdit)
 
 ---
 
 # 🏆 Achievements
 
-* 🥇 Secured **1st position** in a DSA assessment
-* 🥈 Secured **2nd position** in a Java + DSA challenge
+* 🥇 **1st Position** in a DSA assessment
+* 🥈 **2nd Position** in a Java + DSA challenge
 * 💻 Solved **100+ problems on LeetCode**
-* 🚀 Built multiple full-stack applications
-* 🧩 Hands-on experience with backend API development
+* 🚀 Built multiple full-stack and backend applications
+* 🧩 Hands-on experience with REST API development and backend architecture
 
 ---
 
-# 💼 What I'm Looking For
+# 📈 Problem Solving
 
-I'm interested in opportunities where I can work on:
+I actively practice Data Structures & Algorithms alongside development.
 
-* Backend development
-* Full-stack web applications
-* REST API development
-* Node.js / Express.js
-* React.js
-* Database-driven applications
-* Real-world software engineering problems
+### Current Focus
 
-**Open to internships, freelance opportunities, and full-time software development roles.**
+```text
+Java
+  ↓
+Data Structures
+  ↓
+Algorithms
+  ↓
+Problem Solving
+  ↓
+Time & Space Complexity
+  ↓
+System Design
+  ↓
+Software Engineering
+```
+
+🔗 [My LeetCode Profile](https://leetcode.com/)
+
+---
+
+# 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/RashikaLahoti/RashikaLahoti/output/github-contribution-grid-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/RashikaLahoti/RashikaLahoti/output/github-contribution-grid-snake.svg">
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/RashikaLahoti/RashikaLahoti/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+# 🌱 What I'm Working Towards
+
+I'm working towards becoming a **strong Software Engineer**, with depth across both development and computer science fundamentals.
+
+```text
+                    SOFTWARE ENGINEERING
+                            │
+        ┌───────────────────┼───────────────────┐
+        ↓                   ↓                   ↓
+       DSA              DEVELOPMENT        SYSTEM DESIGN
+        │                   │                   │
+      Java              Full Stack          Architecture
+        │                   │                   │
+   Algorithms          Backend + APIs       Scalability
+        │                   │                   │
+        └───────────────────┼───────────────────┘
+                            ↓
+                    BUILD BETTER SOFTWARE
+```
+
+---
+
+# 💼 Open To
+
+I'm interested in opportunities involving:
+
+* Software Development
+* Backend Development
+* Full Stack Development
+* Java Development
+* MERN Stack Development
+* API Development
+* Product Engineering
+* Software Engineering Internships
+* Full-Time Software Engineering Roles
 
 ---
 
 # 📫 Let's Connect
 
 <p align="center">
+  <a href="https://github.com/RashikaLahoti">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/rashika-lahoti-3236a228b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:lahotirashika19@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/RashikaLahoti">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Building. Breaking. Debugging. Learning. Repeating.</i>
 </p>
 
 <p align="center">
-  ⭐ If you find something interesting in my repositories, feel free to explore!
+  <i>Build. Break. Debug. Learn. Repeat.</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
 </p>
