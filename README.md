@@ -2,7 +2,7 @@
 
 ### `Full Stack Developer` · `Backend-Focused` · `MERN Stack`
 
-I'm a 3rd-year Computer Science engineering student at **LNCT Bhopal**, focused on building practical, real-world web applications with the **MERN stack**.
+I'm a final-year Computer Science engineering student at **LNCT Bhopal**, focused on building practical, real-world web applications with the **MERN stack**.
 
 I enjoy working on the parts of an application that make it actually work — **APIs, authentication, databases, validation, backend architecture, and frontend-backend integration**.
 
@@ -13,7 +13,7 @@ Currently, I'm strengthening my backend development skills through hands-on deve
 ## 🧠 About Me
 
 ```text
-🎓 3rd-year B.Tech CSE student
+🎓 final-year B.Tech CSE student
 💻 Full Stack Developer — MERN
 🔧 Backend-focused developer
 📚 Learning system design & scalable backend architecture
@@ -58,47 +58,33 @@ Currently, I'm strengthening my backend development skills through hands-on deve
 
 # 🚀 Featured Projects
 
-## 🚕 UberClone — Backend-Focused Ride Booking System
+## 💇‍♀️ GlowTwin AI — AI-Powered Beauty Marketplace
 
-**My strongest backend project**
+**My most ambitious full-stack project**
 
-A ride-booking backend designed around a structured backend architecture rather than putting everything inside route handlers.
+GlowTwin AI is a city-based beauty marketplace that uses **AI-powered hair analysis** to help users discover personalized beauty and hair-care services.
 
-### Highlights
+The project combines a modern React frontend with a structured Node.js backend and AI integration, focusing on building an actual product rather than just demonstrating CRUD operations.
 
-* 🔐 Authentication & authorization
-* 🧩 Routes → Controllers → Services → Models separation
-* 🛡️ Request validation using **Zod**
-* 🔄 RESTful API design
-* 🗄️ MongoDB database integration
-* 🧱 Middleware-based request handling
-* ✏️ CRUD operations
-* 📁 Modular project structure
+### ✨ Highlights
 
-**Stack:** `Node.js` `Express.js` `MongoDB` `Zod` `JWT`
+* 🤖 AI-powered hair analysis
+* 💇 Personalized beauty & hair-care recommendations
+* 📍 City-based beauty service discovery
+* 🔐 Authentication & protected routes
+* 🔗 REST API architecture
+* 🧩 Modular backend structure
+* 🛡️ Request validation with **Zod**
+* ☁️ Image handling with **Cloudinary**
+* 🗄️ MongoDB-based data management
+* ⚡ AI integration through **OpenRouter**
+* 📱 Responsive React interface
 
-🔗 **[View Repository](https://github.com/RashikaLahoti/UberClone)**
+### 🧰 Tech Stack
 
----
+`React.js` · `TypeScript` · `Node.js` · `Express.js` · `MongoDB` · `Tailwind CSS` · `Zod` · `Cloudinary` · `OpenRouter`
 
-## 💬 SyncChat — Real-Time Chat Application
-
-A full-stack chat application focused on real-time communication and frontend-backend integration.
-
-### Highlights
-
-* 💬 Instant messaging
-* 🔐 User authentication
-* 🔄 Real-time data handling
-* 📱 Responsive interface
-* 🔗 Frontend ↔ Backend integration
-* 🗄️ Persistent data storage
-
-**Stack:** `React.js` `Node.js` `Express.js` `MongoDB`
-
-🔗 **[View Repository](https://github.com/RashikaLahoti/SyncChat)**
-
----
+🔗 **[View Repository](https://github.com/RashikaLahoti/GlowTwin)**
 
 ## 🤖 PrepPilot AI — AI-Powered Preparation Platform
 
@@ -135,19 +121,48 @@ A lightweight browser-based editor built to strengthen core frontend and JavaScr
 🔗 **[View Repository](https://github.com/RashikaLahoti/QuickEdit)**
 
 ---
+## 📊 Sorting Algorithm Visualizer — Interactive Algorithm Learning Tool
+
+An interactive web application that visually demonstrates how different sorting algorithms work, making algorithm behavior easier to understand through step-by-step animations.
+
+### ✨ Highlights
+
+* 🔢 Visualizes multiple sorting algorithms
+* 🎬 Step-by-step sorting animations
+* ⚡ Adjustable animation speed
+* 🎯 Interactive array generation
+* 🧠 Helps understand algorithm behavior visually
+* 📈 Compares sorting approaches and performance
+* 🎨 Clean and responsive interface
+* 🧩 Built with vanilla JavaScript and DOM manipulation
+
+### 🧰 Tech Stack
+
+`HTML` · `CSS` · `JavaScript` · `DOM Manipulation` · `Algorithms`
+
+🔗 **[View Repository](YOUR_SORTING_VISUALIZER_GITHUB_LINK)**
+
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RashikaLahoti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashikaLahoti&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=RashikaLahoti&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=RashikaLahoti&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RashikaLahoti&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=RashikaLahoti&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
----
 
 # 🌱 Currently Learning
 
