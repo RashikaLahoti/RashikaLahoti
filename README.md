@@ -158,34 +158,6 @@ A lightweight editor built to strengthen JavaScript, DOM manipulation and fronte
     src="https://github-readme-streak-stats-eight.vercel.app/?user=RashikaLahoti&theme=tokyonight&hide_border=true"
     height="170"
   />
-</p>
-
-
-
-# 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RashikaLahoti/RashikaLahoti/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-</p>
-
----
-🌱 What I'm Working Towards
-
-I'm working towards becoming a strong Software Engineer, with depth across both development and computer science fundamentals.
-
-                    SOFTWARE ENGINEERING
-                            │
-        ┌───────────────────┼───────────────────┐
-        ↓                   ↓                   ↓
-       DSA              DEVELOPMENT        SYSTEM DESIGN
-        │                   │                   │
-      Java              Full Stack          Architecture
-        │                   │                   │
-   Algorithms          Backend + APIs       Scalability
-        │                   │                   │
-        └───────────────────┼───────────────────┘
-                            ↓
-                    BUILD BETTER SOFTWARE
                     
 # 💼 Open To
 
