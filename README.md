@@ -1,21 +1,21 @@
 # 👋 Hi, I'm Rashika Lahoti
 
-### Software Developer · Full Stack Developer · Backend-Focused
+### Software Engineer · Full-Stack Developer · DSA & Problem Solving
 
-I'm a final-year Computer Science engineering student at **LNCT Bhopal**, interested in building practical software and understanding how systems work under the hood.
+I'm a final-year Computer Science engineering student at **LNCT Bhopal** who enjoys turning ideas into working software — from the algorithm up to the interface. I care about writing clean, maintainable code and understanding *why* a system behaves the way it does, not just making it run.
 
-My focus spans **Java & DSA, backend development, full-stack applications, databases, APIs, and AI integrations**. Currently, I'm strengthening my skills in **DSA, Java, backend architecture, and system design**.
+My work spans **data structures & algorithms, full-stack development, APIs, databases, and AI integrations**, with Java and problem-solving at the core. Right now I'm deepening my **DSA, system design, and software architecture** skills.
 
 ---
 
 ## 🧠 About Me
 
-* 🎓 B.Tech CSE student
-* 💻 Software Developer focused on backend & full-stack development
-* ☕ Learning **Java + DSA**
-* 🧠 Interested in **Algorithms, System Design & Software Engineering**
-* 🤖 Building applications with **AI integrations**
-* 🚀 Goal: Become a strong Software Engineer
+* 🎓 B.Tech CSE student at LNCT Bhopal
+* 💡 Software engineer who builds across the stack — frontend, backend, and everything between
+* 🧩 Strong in **DSA & problem solving** (100+ LeetCode, Java)
+* 🏗️ Interested in **Algorithms, System Design & Software Engineering**
+* 🤖 Build real applications with **AI integrations**
+* 🚀 Goal: Become a strong, well-rounded Software Engineer
 
 ---
 
@@ -24,10 +24,10 @@ My focus spans **Java & DSA, backend development, full-stack applications, datab
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,python" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python" />
 </p>
 
-`Java` · `JavaScript` · `Python`
+`Java` · `JavaScript` · `TypeScript` · `Python`
 
 ### 🎨 Frontend
 
@@ -66,7 +66,7 @@ A city-based beauty marketplace combining **AI-powered hair analysis** with pers
 * 🤖 AI-powered hair analysis & recommendations
 * 📍 City-based service discovery
 * 🔐 Authentication & protected routes
-* 🛡️ Zod validation
+* 🛡️ Zod schema validation
 * ☁️ Cloudinary image handling
 * 🗄️ MongoDB data management
 * ⚡ OpenRouter AI integration
@@ -83,11 +83,11 @@ A city-based beauty marketplace combining **AI-powered hair analysis** with pers
 
 An interactive application that visualizes sorting algorithms through step-by-step animations.
 
-* 🔢 Sorting algorithm visualization
+* 🔢 Multiple sorting algorithms visualized
 * 🎬 Step-by-step animations
 * ⚡ Adjustable animation speed
 * 🎯 Dynamic array generation
-* 🧠 Algorithm-focused learning
+* 🧠 Algorithm-focused learning tool
 
 **Tech:** `JavaScript` `HTML` `CSS` `DOM Manipulation` `Algorithms`
 
@@ -99,7 +99,13 @@ An interactive application that visualizes sorting algorithms through step-by-st
 
 **AI-Powered Preparation Platform**
 
-A learning and productivity platform designed around study organization and interview preparation.
+A learning and productivity platform built around study organization and interview preparation.
+
+* 📚 Structured study & preparation tracking
+* 🤖 AI-assisted interview prep
+* 🔐 User authentication
+* 🗄️ MongoDB-backed data storage
+* 🔗 RESTful API architecture
 
 **Tech:** `React.js` `Node.js` `MongoDB` `REST APIs`
 
@@ -113,6 +119,11 @@ A learning and productivity platform designed around study organization and inte
 
 A lightweight editor built to strengthen JavaScript, DOM manipulation and frontend fundamentals.
 
+* ✏️ Live in-browser editing
+* 🧩 Hands-on DOM manipulation
+* ⚙️ Zero-dependency vanilla JS
+* 🎯 Fundamentals-focused build
+
 **Tech:** `HTML` `CSS` `JavaScript`
 
 🔗 [View Repository](https://github.com/RashikaLahoti/QuickEdit)
@@ -123,9 +134,9 @@ A lightweight editor built to strengthen JavaScript, DOM manipulation and fronte
 
 **DSA:** Arrays · Strings · Linked Lists · Stacks · Queues · Trees · Recursion · Searching · Sorting
 
-**Fundamentals:** OOP · REST APIs · Authentication · Database Design · Layered Architecture · Git
+**Fundamentals:** OOP · DBMS · REST APIs · Authentication · Database Design · Layered Architecture · Git
 
-**Currently learning:** Java · Advanced DSA · System Design · Backend Architecture · Database Optimization
+**Currently learning:** Advanced DSA · System Design · Software Architecture · Database Optimization
 
 ---
 
@@ -133,11 +144,10 @@ A lightweight editor built to strengthen JavaScript, DOM manipulation and fronte
 
 * 🥇 **1st Position** — DSA Assessment
 * 🥈 **2nd Position** — Java + DSA Challenge
-* 💻 **100+ LeetCode Problems**
-* 🚀 Built multiple full-stack, backend & AI-powered applications
+* 💻 **100+ LeetCode Problems Solved**
+* 🚀 Built multiple full-stack & AI-powered applications end to end
 
-🔗 [LeetCode]([https://leetcode.com/](https://www.linkedin.com/in/rashika-lahoti-3236a228b))
-
+🔗 [LeetCode Profile](https://leetcode.com/u/Rupo0rsKbj/)
 ---
 
 # 📊 GitHub Stats
@@ -158,10 +168,13 @@ A lightweight editor built to strengthen JavaScript, DOM manipulation and fronte
     src="https://github-readme-streak-stats-eight.vercel.app/?user=RashikaLahoti&theme=tokyonight&hide_border=true"
     height="170"
   />
-                    
+</p>
+
+---
+
 # 💼 Open To
 
-**Software Development · Backend Development · Full Stack Development · Java Development · Product Engineering**
+**Software Engineering · Full-Stack Development · Backend Development · Product Engineering**
 
 Open to **internships and full-time software engineering opportunities**.
 
